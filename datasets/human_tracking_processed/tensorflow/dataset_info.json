@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "single_person",
+    "multiple_people"
+  ],
+  "total_images": 41,
+  "images_per_class": {
+    "single_person": 0,
+    "multiple_people": 41
+  }
+}

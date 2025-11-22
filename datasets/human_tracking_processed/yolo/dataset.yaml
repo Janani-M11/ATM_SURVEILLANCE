@@ -1,0 +1,7 @@
+path: C:\miniproject\datasets\human_tracking_processed\yolo
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names: ['person']
